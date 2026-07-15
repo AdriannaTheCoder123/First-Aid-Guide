@@ -1,0 +1,6 @@
+{
+  "name": "First Aid Guide",
+  "description": "An interactive, educational first aid guide with a 'What should I do if...' triage helper, step-by-step instructions for common emergencies, an interactive CPR metronome, and a knowledge quiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
